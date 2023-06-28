@@ -1,0 +1,9 @@
+2023-06-26 20:40:13.162089 GOT BLOCK FROM PEER! Passing to bitcoind! 5ce823e9 bitcoin: https://chainz.cryptoid.info/dgb/block.dws?f9638cc9a6b65b368e18c3d4a40e979113a71600eaf481afca8614265ce823e9
+2023-06-26 20:42:30.484437 GOT BLOCK FROM PEER! Passing to bitcoind! 3771599d bitcoin: https://chainz.cryptoid.info/dgb/block.dws?e7286684dfd75de6cd3bad2fc67ca0fe87a6d91375895ff469989c953771599d
+2023-06-27 06:55:48.477957 GOT BLOCK FROM PEER! Passing to bitcoind! 325f01d3 bitcoin: https://chainz.cryptoid.info/dgb/block.dws?34ae2ec694423b71b3a377580f5e98de2c4261da1b91a08aac201542325f01d3
+2023-06-27 11:17:07.224602 GOT BLOCK FROM PEER! Passing to bitcoind! 8bfe5632 bitcoin: https://chainz.cryptoid.info/dgb/block.dws?6ac61b30ef3febeda2223a57de148337df6930a18bd5a7eb38dbed3d8bfe5632
+2023-06-27 15:55:17.660179 GOT BLOCK FROM PEER! Passing to bitcoind! 63a694c4 bitcoin: https://chainz.cryptoid.info/dgb/block.dws?af01b2c22111039bb030f25ba07cb5ea142740fe4e63029266dc97b263a694c4
+2023-06-27 16:22:39.402504 GOT BLOCK FROM PEER! Passing to bitcoind! c71c48fc bitcoin: https://chainz.cryptoid.info/dgb/block.dws?a1c9d055cb50beb57c1118a6b5671105bc76b2b00bc4d91ea22f4e5ac71c48fc
+2023-06-27 17:48:44.992288 GOT BLOCK FROM PEER! Passing to bitcoind! c7d5e922 bitcoin: https://chainz.cryptoid.info/dgb/block.dws?cf063b3d05b6d7ab8df6d342387de925fa2abedf50f4f5e2e23cf052c7d5e922
+2023-06-27 23:07:27.170246 GOT BLOCK FROM PEER! Passing to bitcoind! 6f53d39c bitcoin: https://chainz.cryptoid.info/dgb/block.dws?a70f00921330fd6ef19d236df8f40384866ba0fc9aeb2477b5d754fb6f53d39c
+2023-06-28 03:16:31.880068 GOT BLOCK FROM PEER! Passing to bitcoind! 80756ee5 bitcoin: https://chainz.cryptoid.info/dgb/block.dws?4bdcc5a886460e879038d02e6153eb17c4be46e2dc699a6dd98f342380756ee5
